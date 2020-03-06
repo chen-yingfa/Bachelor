@@ -1,0 +1,7 @@
+﻿  main.cpp
+d:\学校\清华\本科2019秋\数据结构\hw\pa2\circuitvs\circuitvs\main.cpp(101): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  d:\学校\清华\本科2019秋\数据结构\hw\pa2\circuitvs\circuitvs\main.cpp(101): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  d:\学校\清华\本科2019秋\数据结构\hw\pa2\circuitvs\circuitvs\main.cpp(101): note: 缺失的可变参数 2 为格式字符串“%s”所需
+  d:\学校\清华\本科2019秋\数据结构\hw\pa2\circuitvs\circuitvs\main.cpp(101): note: 此参数用作缓冲区大小
+d:\学校\清华\本科2019秋\数据结构\hw\pa2\circuitvs\circuitvs\main.cpp(87): warning C4101: “c”: 未引用的局部变量
+  CircuitVS.vcxproj -> D:\学校\清华\本科2019秋\数据结构\hw\PA2\CircuitVS\Debug\CircuitVS.exe
